@@ -1,0 +1,23 @@
+.hero {
+  height: 100vh; /* full layar */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-image: url('../assets/hero.jpg');
+  background-size: cover; /* Mengatur gambar agar menutupi seluruh area hero */
+  background-position: center;
+  color: white;
+  padding-top: 10px; /* biar nggak ketutup header fixed */
+}
+
+.hero h1 {
+  font-size: 5rem;
+  margin-bottom: 20px;
+}
+
+.hero p {
+  font-size: 1.1rem;
+  max-width: 600px;
+  margin: 0 auto;
+}

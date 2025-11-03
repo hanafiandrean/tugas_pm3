@@ -1,0 +1,6 @@
+- [x] Edit CardProduk.jsx to accept image prop and set img src
+- [x] Edit App.jsx to pass image URL to Nasi Goreng card
+- [x] Edit card.css to style the img properly
+- [x] Add image to Soto Ayam card with provided URL
+- [x] Add image to Nasi Padang card with provided URL
+- [x] Ganti URL gambar produk Nasi Goreng di src/App.jsx dengan URL baru
